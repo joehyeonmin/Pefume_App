@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">향기</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    // history
+    <string name="name">Name</string>
+    <string name="cost">Cost</string>
+    <string name="scent">Scent</string>
+    <string name="memo">Memo</string>
+
+    // fragment1
+    <string name="perfume">Perfume</string>
+    <string name="favorite">Favorite</string>
+    <string name="note">Perfume Note</string>
+    <string name="weather">Weather</string>
+
+</resources>
